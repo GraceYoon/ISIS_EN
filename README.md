@@ -7,7 +7,7 @@ No need to install any R package. This is an R code modified based on SIS packag
 
 
 ## Citation
-[Yoon G., Zheng Y., Zhang Z., Zhang H., Gao T., Joyce B., Zhang W., Guan W., Baccarelli A., Jiang W., Schwartz J., Vokonas P., Hou L. and Liu L. (2017) Ultra-high dimensional variable selection with application to normative aging study: DNA methylation and metabolic syndrome, BMC Bioinformatics, 18:156.](https://doi.org/10.1186/s12859-017-1568-1)
+Yoon G., Zheng Y., Zhang Z., Zhang H., Gao T., Joyce B., Zhang W., Guan W., Baccarelli A., Jiang W., Schwartz J., Vokonas P., Hou L. and Liu L. (2017) [Ultra-high dimensional variable selection with application to normative aging study: DNA methylation and metabolic syndrome, BMC Bioinformatics, 18:156.](https://doi.org/10.1186/s12859-017-1568-1)
 
 ## Contact
 Grace Yoon
